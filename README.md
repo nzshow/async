@@ -11,4 +11,4 @@ parallel、parallelLimit、queue;
 whilst、doWhilst、until、doUntil、forever;
 
 其他控制：
-apply‘applyEach、iterator、auto;
+apply、applyEach、iterator、auto;
